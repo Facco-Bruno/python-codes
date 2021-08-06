@@ -1,3 +1,0 @@
-Descrição do Projeto
-
-- Desenvolvimento de um Escalonador do tipo Rate Monotonic em Python utilizando bibliotecas como Numpy e Matplotlib.
