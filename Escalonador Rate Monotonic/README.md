@@ -2,6 +2,6 @@
 <br>
 Linguagem: Python
 <br>
-Bibliotecas: Matplotlib e Numpy
+Bibliotecas: Matplotlib, Numpy e Math
 <br>
 Recursos Gráficos: Gráfico de Gantt
