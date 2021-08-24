@@ -224,7 +224,7 @@ def Simulacao(hp):
 def Gantt():
 	
 	  colors = ['red','green','blue','orange','yellow']
-	  fig = plt.figure(figsize=(10,7))  # Define o tamanho da figura
+	  fig = plt.figure(figsize=(10,7))  # Define o tamanho da figura (largura, altura)
 	  ax = fig.add_subplot(111)
 	  ax = plt.hlines(y_axis, from_x, to_x, linewidth=20, color = colors[n-1]) # Configurando Eixo Y (valores, xmin, xmax)
 	  plt.title('Escalonamento Rate Monotonic')
